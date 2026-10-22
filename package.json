@@ -28,7 +28,7 @@
 		"useTabs": true
 	},
 	"devDependencies": {
-		"@babel/core": "^7.10.3",
+		"@babel/core": "^7.29.6",
 		"@babel/runtime": "^7.10.3",
 		"@types/react-native": "^0.62.13",
 		"babel-plugin-module-resolver": "^4.0.0",
